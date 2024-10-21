@@ -10,6 +10,6 @@
 </template>
 
 <script>
-import InfoWindow from '../components-implementation/info-window';
+import * as InfoWindow from '../components-implementation/info-window';
 export default InfoWindow;
 </script>
