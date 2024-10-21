@@ -6,5 +6,6 @@
 </template>
 
 <script>
-export default ((x) => x.default || x)(require('../components-implementation/autocomplete'))
+import Autocomplete from '../components-implementation/autocomplete';
+export default Autocomplete;
 </script>

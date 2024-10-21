@@ -7,5 +7,6 @@
 </template>
 
 <script>
-export default ((x) => x.default || x)(require('../components-implementation/place-input'))
+import PlaceInput from '../components-implementation/place-input';
+export default PlaceInput;
 </script>
