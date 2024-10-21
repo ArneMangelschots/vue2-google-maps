@@ -7,6 +7,6 @@
 </template>
 
 <script>
-import PlaceInput from '../components-implementation/place-input';
+import * as PlaceInput from '../components-implementation/place-input';
 export default PlaceInput;
 </script>

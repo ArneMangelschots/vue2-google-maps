@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import map from '../components-implementation/map';
-export default map;
+import * as Map from '../components-implementation/map';
+export default Map;
 </script>
 
 <style lang="css">

@@ -6,6 +6,6 @@
 </template>
 
 <script>
-import Autocomplete from '../components-implementation/autocomplete';
+import * as Autocomplete from '../components-implementation/autocomplete';
 export default Autocomplete;
 </script>

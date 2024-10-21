@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import StreetViewPanorama from '../components-implementation/street-view-panorama';
+import * as StreetViewPanorama from '../components-implementation/street-view-panorama';
 export default StreetViewPanorama;
 </script>
 
